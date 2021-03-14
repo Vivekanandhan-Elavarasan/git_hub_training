@@ -1,0 +1,7 @@
+git clone https://github.com/Vivekanandhan-Elavarasan/git_hub_training.git
+git init
+git add 
+git remote set-url origin https://github.com/Vivekanandhan-Elavarasan/git_hub_training.git
+git remote -v
+git push -u origin master
+git status
