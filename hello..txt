@@ -5,3 +5,7 @@ git remote set-url origin https://github.com/Vivekanandhan-Elavarasan/git_hub_tr
 git remote -v
 git push -u origin master
 git status
+git checkout -b branch1
+git push origin branch1
+git pull
+git branch --set-upstream-to=origin/<branch> branch1
